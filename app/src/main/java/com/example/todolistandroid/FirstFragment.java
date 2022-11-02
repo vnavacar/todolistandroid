@@ -9,7 +9,7 @@ import android.support.annotation.NonNull;
 import android.support.v4.app.Fragment;
 import androidx.navigation.fragment.NavHostFragment;
 import com.example.todolistandroid.databinding.FragmentFirstBinding;
-
+//fragmento primario?
 public class FirstFragment extends Fragment {
 
     private FragmentFirstBinding binding;
